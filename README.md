@@ -122,11 +122,7 @@ This system is intentionally optimized for **high-value, low-volume usage enviro
 ---
 
 ## Future Enhancements
-
-- Conflict resolution for multi-writer scenarios  
-- Integration with streaming platforms (Kafka / Redpanda)  
-- Observability (metrics, logging, tracing for CDC pipeline)  
 - Role-Based Access Control (RBAC)  
-- Event-driven architecture extensions  
+- Feature Enhancements  
 
 ---
