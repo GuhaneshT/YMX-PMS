@@ -1,7 +1,7 @@
-# YMX-PMS — Technical Documentation
+# MPMS — Technical Documentation
 
 ## Overview
-**YMX-PMS** is a production-grade backend system developed for **YMX India Pvt. Ltd.** to manage and automate the lifecycle of industrial knitting machinery.
+**MPMS** is a production-grade backend system developed for a small scale firms to manage and automate the lifecycle of industrial knitting machinery.
 
 The system is designed with a strong emphasis on **data integrity**, **real-time synchronization**, and **operational clarity**, making it well-suited for small enterprise environments with complex workflows.
 
